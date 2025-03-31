@@ -1,0 +1,1 @@
+https://www.pluralsight.com/resources/blog/cloud/how-to-get-started-with-infrastructure-as-code-iac-on-gcp
