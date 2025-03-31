@@ -6,9 +6,9 @@
 
 ## Fast Facts
 
-| Language(s)   | File Type(s) | Synthesizes to?                         |
-|--------------|-------------|----------------------------------------|
-|   |    | |
+| Language(s)   | Language Type |File Type(s) | Synthesizes to?                         |
+|--------------|------|-------|----------------------------------------|
+|   |    | | |
 
 ## Abstractions
 
